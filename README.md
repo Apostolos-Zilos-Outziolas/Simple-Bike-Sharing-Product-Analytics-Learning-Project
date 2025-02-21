@@ -31,6 +31,7 @@ EDA involved exploring the sales data to answer key questions such as:
 - Where there any peaks in rider count and when? Was the decision of increasing the product price correct?
 
 ## Data Analysis-Visualization
+![bike share analytics](https://github.com/user-attachments/assets/a165d1c4-bba4-4f1b-86e9-447ed4b58947)
 
 
 ## Results/Findings
